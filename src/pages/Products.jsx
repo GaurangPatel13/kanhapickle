@@ -7,7 +7,7 @@ const Products = () => {
   const allProducts = [
     {
       id: 1,
-      image: "./public/Assets/mango 500g.png",
+      image: "/Assets/mango 500g.png",
       title: "Rajshahi Mango Pickle",
       description: "Tangy and spicy!",
       Category: "Mango",
@@ -15,7 +15,7 @@ const Products = () => {
     },
     {
       id: 2,
-      image: "./public/Assets/gorkeri 350g.png",
+      image: "/Assets/gorkeri 350g.png",
       title: "Gujarati Gorkeri Pickle",
       description: "Sweet and Categoryful.",
       Category: "Sweet",
@@ -23,7 +23,7 @@ const Products = () => {
     },
     {
       id: 3,
-      image: "./public/Assets/lemon 325g.png",
+      image: "/Assets/lemon 325g.png",
       title: "Super Lemon Pickle",
       description: "A burst of lemony freshness.",
       Category: "Lemon",
@@ -31,7 +31,7 @@ const Products = () => {
     },
     {
       id: 4,
-      image: "./public/Assets/chilli 325g.png",
+      image: "/Assets/chilli 325g.png",
       title: "Premium Green Chilli Pickle",
       description: "Green chilli with a spicy twist.",
       Category: "Chilli",
@@ -39,7 +39,7 @@ const Products = () => {
     },
     {
       id: 5,
-      image: "./public/Assets/chilli 5kg.png",
+      image: "/Assets/chilli 5kg.png",
       title: "Spicy Green Chilli Pickle",
       description: "Green chilli with a spicy twist.",
       Category: "Chilli",
@@ -47,7 +47,7 @@ const Products = () => {
     },
     {
       id: 6,
-      image: "./public/Assets/mix 325g.png",
+      image: "/Assets/mix 325g.png",
       title: "Special Mixed Pickle",
       description: "Tangy and spicy Mixed Vegitable pickle.",
       Category: "Mix",

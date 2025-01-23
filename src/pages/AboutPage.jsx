@@ -71,7 +71,7 @@ const AboutPage = () => {
         <div className="container mx-auto px-5 md:px-10 grid grid-cols-1 md:grid-cols-2 gap-8">
           {/* Sudhir Patel Section */}
           <motion.img
-            src="./public/Assets/sudhir.png"
+            src="/Assets/sudhir.png"
             alt="Sudhir Patel"
             className="rounded-full shadow-lg w-48 h-48 mx-auto"
             initial={{ opacity: 0, x: -50 }}
@@ -97,7 +97,7 @@ const AboutPage = () => {
 
           {/* Shreyash Patel Section */}
           <motion.img
-            src="./public/Assets/shreyash.png"
+            src="/Assets/shreyash.png"
             alt="Shreyash Patel"
             className="rounded-full shadow-lg w-48 h-48 mx-auto"
             initial={{ opacity: 0, x: -50 }}

@@ -29,13 +29,13 @@ const HomePage = () => {
       id: 2,
       name: "Pickle Name 2",
       description: "Spicy and flavorful homemade pickle.",
-      image: "./public/Assets/pickle2.png",
+      image: "https://img.freepik.com/premium-photo/pickling-cucumbers-cans-ingredients-marinated-gherkins-glass-jar-garlic-dill-salt-pepper-yellow-background-copy-space-concept-vegetables-preservation_769609-4085.jpg?ga=GA1.1.1864150380.1732104550&semt=ais_hybrid",
     },
     {
       id: 3,
       name: "Pickle Name 3",
       description: "Sweet and savory homemade pickle.",
-      image: "./public/Assets/pickle3.png",
+      image: "https://img.freepik.com/premium-photo/canned-food-concept-fermented-pickled-marinated-preserved-vegetarian-italian-snacks-sauces_630207-3930.jpg?ga=GA1.1.1864150380.1732104550&semt=ais_incoming",
     },
   ];
 
