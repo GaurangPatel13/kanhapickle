@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Cinzel Decorative Black';
+    src: url('./assets/fonts/CinzelDecorative-Black.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Incite Aplx';
+    src: url('./assets/fonts/Incite-aplx.ttf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+  }
