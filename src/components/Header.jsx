@@ -25,7 +25,7 @@ const Header = () => {
           <img
             onClick={handleLogoClick}
             className="md:w-[120px] w-24 hover:cursor-pointer"
-            src="/Assets/logo1.png"
+            src="/Assets/logo2.png"
             alt="Kanha Pickles"
           />
           <div className="md:hidden">
